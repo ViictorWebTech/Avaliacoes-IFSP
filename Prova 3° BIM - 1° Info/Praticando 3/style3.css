@@ -1,0 +1,52 @@
+body {
+  max-width: 100%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.tudo {
+  margin: 2vh 20vw;
+  padding: 0.5vw;
+  height: 50vh;
+  width: 55vw;
+  border: rgb(101, 101, 101) 0.3vw solid;
+  background-color: rgb(223, 240, 247);
+}
+div {
+  height: 4vh;
+}
+.vermelho {
+  width: 6vw;
+  margin: 0 24vw;
+  background-color: red;
+}
+.laranja {
+  background-color: orangered;
+  width: 10vw;
+  margin: 0 22vw;
+}
+.amarelo {
+  background-color: yellow;
+  width: 14vw;
+  margin: 0 20vw;
+}
+.verde {
+  background-color: rgb(5, 65, 5);
+  width: 18vw;
+  margin: 0 18vw;
+}
+.azul {
+  background-color: blue;
+  width: 22vw;
+  margin: 0 16vw;
+}
+.roxo {
+  background-color: rgb(83, 18, 139);
+  width: 26vw;
+  margin: 0 14vw;
+}
+.roxoclaro {
+  background-color: rgb(155, 61, 214);
+  width: 30vw;
+  margin: 0 12vw;
+}

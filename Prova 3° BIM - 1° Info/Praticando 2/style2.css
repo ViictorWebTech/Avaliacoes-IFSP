@@ -1,0 +1,55 @@
+body {
+  max-width: 100%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.page {
+  width: 1000px;
+  padding-bottom: 3vh;
+  font-family: "Nunito", sans-serif;
+  margin: 2vh 10vw;
+  border: rgb(101, 101, 101) 0.3vw solid;
+  font-size: large;
+  text-align: justify;
+}
+.titu {
+  padding: 0.5vh 2vw;
+}
+.arar {
+  padding: 0.5vh 2vw;
+  text-indent: 5vw;
+  border: 1.2vh double rgb(164, 7, 7);
+  border-right: 0;
+  border-left: 0;
+  background-color: rgb(226, 179, 179);
+  margin-bottom: 3vh;
+}
+.ip {
+  padding: 0.5vh 2vw;
+  text-indent: 5vw;
+  border: 1.2vh double rgb(221, 235, 25);
+  border-right: 0;
+  border-left: 0;
+  background-color: rgb(235, 240, 186);
+  margin-bottom: 3vh;
+  padding-bottom: 1.5vh;
+}
+.on {
+  padding: 0.5vh 2vw;
+  text-indent: 5vw;
+  border: 1.2vh double rgb(9, 76, 3);
+  border-right: 0;
+  border-left: 0;
+  background-color: rgb(141, 227, 162);
+}
+.direita {
+  float: right;
+  height: 15vh;
+  margin: 1.5vw;
+}
+.esquerda {
+  float: left;
+  height: 28.5vh;
+  margin: 1.5vw;
+}
