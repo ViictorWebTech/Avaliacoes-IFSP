@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(157, 195, 219);
+}
+h1{
+    color: rgb(104, 56, 56);
+}
+
+table, td,tr, caption {
+border: solid 1px;
+}
+
+.destaque{
+    background-color: rgb(156, 83, 240);
+    border: 5px outset rgb(20, 116, 20) ;
+}
+.tabela caption, table{
+    background-color: rgb(255, 255, 255);
+}
